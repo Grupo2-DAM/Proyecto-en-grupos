@@ -11,7 +11,7 @@ public class Nif {
 	/**
 	 * Constructor convencional.
 	 * Establece el valor inicial del atributo.
-	 * Recibe un par√°metro que se corresponden con el atributo
+	 * Recibe un par·metro que se corresponden con el atributo
 	 */
 	public Nif(String texto) {
 		setTexto(texto);
@@ -60,7 +60,7 @@ public class Nif {
 	 * @return true si es correcta.
 	 */
 	private boolean letraValida(String textoNif) {
-		// Algoritmo de obtenci√≥n letra
+		// Algoritmo de obtenciÛn letra
 		//--Pendiente--
 		return true;
 	}
